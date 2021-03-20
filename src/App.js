@@ -16,7 +16,6 @@ class App extends Component {
           </button>
         </div>
         <div className="border d-flex align-items-center justify-content-center" >
-          <cite style={{ "font-weight": "bold", "margin-right": -15 }}>Built using:</cite>
           <img src={logo} className="App-logo" alt="react logo" />
         </div>
       </>
