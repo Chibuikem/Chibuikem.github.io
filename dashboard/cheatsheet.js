@@ -3,7 +3,6 @@
 (function () {
   'use strict'
 
-  // Tooltip and popover demos
   document.querySelectorAll('.tooltip-demo')
     .forEach(function (tooltip) {
       new bootstrap.Tooltip(tooltip, {
@@ -25,7 +24,6 @@
       toast.show()
     })
 
-  // Disable empty links
   document.querySelectorAll('[href="#"]')
     .forEach(function (link) {
       link.addEventListener('click', function (event) {
