@@ -12,7 +12,7 @@ class App extends Component {
         <Header2></Header2>
         <div className="border d-flex align-items-center justify-content-center" style={{ height: 350 }} >
           <button type="button" className="btn btn-outline-dark btn-lg" >
-            <a href="..\dashboard\index.html" style={{ color: "black", "text-decoration": "none" }}>ENTER</a>
+            <a href="..\dashboard\index.html" style={{ color: "black", "text-decoration": "none" }}>I am not a robot</a>
           </button>
         </div>
         <div className="border d-flex align-items-center justify-content-center" >
